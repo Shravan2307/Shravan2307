@@ -37,7 +37,5 @@ Repositories Contributed To	2
 <div align="center"><a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/Shravan2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div><div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-     width="220"
-     alt="A cat typing on a computer"/>
+
 </div>
