@@ -20,7 +20,7 @@ Hey, I'm Shravan Patel — a developer who loves building cool things and contri
 ✏️ Add or remove badges to match your real stack: shields.io / simple-icons.
 
 📊 GitHub stats
-<div align="center"> <!-- 🔁 Replace YOUR_USERNAME with your GitHub username --> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=07060c&title_color=a78bfa&icon_color=7c3aed&text_color=f1ecff&ring_color=a78bfa" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=07060c&title_color=a78bfa&text_color=f1ecff" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=07060C&stroke=2A2145&ring=A78BFA&fire=7C3AED&currStreakNum=F1ECFF&sideNums=F1ECFF&currStreakLabel=A78BFA&sideLabels=9188B3&dates=9188B3" alt="Streak stats"/> </div>
+<div align="center"> <!-- 🔁 Replace YOUR_USERNAME with your GitHub username --> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shravan2307&show_icons=true&hide_border=true&bg_color=07060c&title_color=a78bfa&icon_color=7c3aed&text_color=f1ecff&ring_color=a78bfa" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=07060c&title_color=a78bfa&text_color=f1ecff" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=07060C&stroke=2A2145&ring=A78BFA&fire=7C3AED&currStreakNum=F1ECFF&sideNums=F1ECFF&currStreakLabel=A78BFA&sideLabels=9188B3&dates=9188B3" alt="Streak stats"/> </div>
 📌 Featured projects
 Project	Description	Stack
 🐱 Cat Playground	An anime dev, a cat, and a glowing orb that follows your cursor	Canvas · JS
@@ -29,7 +29,7 @@ Project	Description	Stack
 🤝 Let's connect
 <div align="center">
 
-<a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=07060c" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-5433c4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=07060c" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/shravanpatel1005"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:sp236903@gmail.com"><img src="https://img.shields.io/badge/Email-5433c4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
