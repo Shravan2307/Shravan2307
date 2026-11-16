@@ -16,16 +16,18 @@ Hey, I'm Shravan Patel — a developer who loves building cool things and contri
 🌐 Portfolio: shravan-portfolio-one.vercel.app
 🛠️ Tech stack
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-1b1433?style=flat-square&logo=html5&logoColor=a78bfa" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1b1433?style=flat-square&logo=css3&logoColor=a78bfa" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-1b1433?style=flat-square&logo=javascript&logoColor=a78bfa" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-1b1433?style=flat-square&logo=react&logoColor=a78bfa" alt="React"/> <img src="https://img.shields.io/badge/Node.js-1b1433?style=flat-square&logo=nodedotjs&logoColor=a78bfa" alt="Node.js"/> <img src="https://img.shields.io/badge/Git-1b1433?style=flat-square&logo=git&logoColor=a78bfa" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-1b1433?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub"/> <img src="https://img.shields.io/badge/Vercel-1b1433?style=flat-square&logo=vercel&logoColor=a78bfa" alt="Vercel"/> </div>
-
-✏️ Add or remove badges to match your real stack: shields.io / simple-icons.
-
 📊 GitHub stats
-<div align="center"> <!-- 🔁 Replace YOUR_USERNAME with your GitHub username --> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shravan2307&show_icons=true&hide_border=true&bg_color=07060c&title_color=a78bfa&icon_color=7c3aed&text_color=f1ecff&ring_color=a78bfa" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=07060c&title_color=a78bfa&text_color=f1ecff" alt="Top languages"/> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=07060C&stroke=2A2145&ring=A78BFA&fire=7C3AED&currStreakNum=F1ECFF&sideNums=F1ECFF&currStreakLabel=A78BFA&sideLabels=9188B3&dates=9188B3" alt="Streak stats"/> </div>
+<div align="center">
+
+<a href="https://github.com/Shravan2307"><img src="https://img.shields.io/github/followers/Shravan2307?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=07060c&color=7c3aed" alt="Followers"/></a> <img src="https://komarev.com/ghpvc/?username=Shravan2307&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/a78bfa/Shravan2307" alt="Contribution graph" width="90%"/> </div>
 📌 Featured projects
-Project	Description	Stack
-🐱 Cat Playground	An anime dev, a cat, and a glowing orb that follows your cursor	Canvas · JS
-🚀 Project 2	Short description here	Tech · Tech
-⚡ Project 3	Short description here	Tech · Tech
+🐱 Cat Playground — an anime dev, a cat, and a glowing orb that follows your cursor. Canvas JavaScript
+🚀 Project 2 — short description here. Tech Tech
+⚡ Project 3 — short description here. Tech Tech
 🤝 Let's connect
 <div align="center">
 
