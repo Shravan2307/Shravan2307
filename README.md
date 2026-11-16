@@ -19,11 +19,7 @@
 <br/>
 
 <div align="center">
-
-### 🐾 one last thing before you leave...
-
-<img src="./cute-cat.gif" width="280" alt="Cute looping cat animation"/>
-
-<sub>thanks for stopping by — meow ฅ^•ﻌ•^ฅ</sub>
-
+  <img src="./cat_codes_i_debug.gif" width="400" alt="Cat coding while I debug"/>
 </div>
+
+
