@@ -23,7 +23,6 @@ Hey, I'm Shravan Patel — a developer who loves building cool things and contri
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/a78bfa/Shravan2307" alt="Contribution graph" width="90%"/> </div>
 📌 Featured projects
 🐱 Cat Playground — an anime dev, a cat, and a glowing orb that follows your cursor. Canvas JavaScript
 🚀 Project 2 — short description here. Tech Tech
