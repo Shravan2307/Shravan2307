@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/a78bfa/Shravan2307" alt="Contribution graph" width="90%"/> <img src="./divider.svg" alt="" width="100%"/> <img src="./connect-title.svg" alt="Let's connect" width="100%"/>
 
 <a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=07060c" alt="Portfolio"/></a> <a href="https://github.com/Shravan2307"><img src="https://img.shields.io/badge/GitHub-5433c4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/shravanpatel1005"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
