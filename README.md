@@ -16,5 +16,14 @@
 
 
 <a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=07060c" alt="Portfolio"/></a> <a href="https://github.com/Shravan2307"><img src="https://img.shields.io/badge/GitHub-5433c4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/shravanpatel1005"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br/>
 
-<img src="./footer.svg" alt="Thanks for stopping by" width="100%"/> </div>
+<div align="center">
+
+### 🐾 one last thing before you leave...
+
+<img src="./cute-cat.gif" width="280" alt="Cute looping cat animation"/>
+
+<sub>thanks for stopping by — meow ฅ^•ﻌ•^ฅ</sub>
+
+</div>
