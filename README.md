@@ -18,8 +18,6 @@
 <a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=07060c" alt="Portfolio"/></a> <a href="https://github.com/Shravan2307"><img src="https://img.shields.io/badge/GitHub-5433c4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/shravanpatel1005"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <br/>
 
-<div align="center">
-  <img src="./cat_codes_i_debug.gif" width="400" alt="Cat coding while I debug"/>
-</div>
+
 
 
