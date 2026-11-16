@@ -30,12 +30,13 @@ Repositories Contributed To	2
 - NightBuddy — Women’s safety app prototype with SOS and location-sharing features.
 📊 GitHub Stats
 <div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Shravan2307&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2307&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/><img src="https://streak-stats.demolab.com?user=Shravan2307&theme=tokyonight&hide_border=true" alt="GitHub streak"/></div>🐈 A Little Cat on My Profile
-<div align="center"><!-- Swap this GIF URL for any cat animation you like. -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="A cat typing on a computer"/>The cat is coding. I am too.
-</div>🤝 Connect
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan2307&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/><img src="https://streak-stats.demolab.com?user=Shravan2307&theme=tokyonight&hide_border=true" alt="GitHub streak"/></div>🐈 Cat vs. Cursor
+<div align="center"><img src="./cat_chasing_cursor_dot.gif" width="340" alt="A cozy animated cat chasing a glowing cursor dot"/>Move your cursor around the profile — the cat animation loops with a glowing dot.
+</div>Note: GitHub README Markdown cannot run JavaScript or track your actual mouse pointer. This is a looping GIF animation of a cat and a playful glowing dot. For a truly interactive cat that follows your live cursor, add it to your portfolio website instead.
+
+🤝 Connect
 <div align="center"><a href="https://shravan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/Shravan2307"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div><div align="center">
-
+“Build, learn, contribute, repeat.”
 </div>
